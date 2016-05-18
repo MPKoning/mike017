@@ -6,7 +6,7 @@
 
 body {
     font-family: "Inconsolata",Helvetica,Arial,sans-serif;
-    background: #6AAEFC;
+    background: #8DD9EB;
    /* background: url('../img/bg.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -43,8 +43,8 @@ hr {
 }
 
 .navbar {
-    background-color: #CFE0E3;
-    border-color: #CFE0E3;
+    background-color: rgba(207, 224, 227, 0.8);
+    border-color: rgba(207, 224, 227, 0.8);
 }
 
 .navbar-brand {
@@ -168,8 +168,7 @@ footer p {
 
     .navbar-default {
         border: none;
-        background: #fff;
-        background: #CFE0E3 
+        background: rgba(207, 224, 227, 0.8); 
     }
 
     .nav>li>a {
