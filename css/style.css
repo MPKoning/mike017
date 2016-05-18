@@ -28,7 +28,7 @@ h6 {
 p {
     font-size: 1.25em;
     line-height: 1.6;
-    color: #CFE0E3;
+    color: #000000;
 }
 
 hr {
@@ -39,6 +39,10 @@ hr {
 .brand,
 .address-bar {
     display: none;
+}
+
+.navbar-header {
+    color: #CFE0E3;
 }
 
 .navbar-brand {
