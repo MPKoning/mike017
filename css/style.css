@@ -37,11 +37,6 @@ hr {
     display: none;
 }
 
-.navbar {
-    background-color: rgba(207, 224, 227, 0.8);
-    border-color: rgba(207, 224, 227, 0.8);
-}
-
 .navbar-brand {
     text-transform: uppercase;
     font-weight: 900;
@@ -124,7 +119,7 @@ footer p {
         font-size: 3.5em;
         font-weight: 700;
         line-height: normal;
-        color: #000000;
+        color: #CFE0E3;
     }
 
     .top-divider {
@@ -146,7 +141,7 @@ footer p {
         font-size: 1.25em;
         font-weight: 400;
         letter-spacing: 3px;
-        color: #fff;
+        color: #CFE0E3;
     }
 
     .navbar {
@@ -163,7 +158,7 @@ footer p {
 
     .navbar-default {
         border: none;
-        background: rgba(207, 224, 227, 0.8); 
+        background: #CFE0E3; 
     }
 
     .nav>li>a {
