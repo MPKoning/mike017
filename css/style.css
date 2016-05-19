@@ -44,6 +44,7 @@ hr {
 .navbar-nav {
     font-weight: 400;
     letter-spacing: 3px;
+    text-align: center;
 }
 
 .img-full {
@@ -96,6 +97,10 @@ hr {
 
 li {
     padding-left: 15px;
+}
+
+small {
+    font-size: 0.5em;
 }
 
 footer {
